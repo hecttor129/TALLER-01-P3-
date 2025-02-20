@@ -1,0 +1,14 @@
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\bin\Debug\Guia_1.exe.config
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\bin\Debug\Guia_1.exe
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\bin\Debug\Guia_1.pdb
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\obj\Debug\Guia_1.csproj.AssemblyReference.cache
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\obj\Debug\Guia_1.csproj.CoreCompileInputs.cache
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\obj\Debug\Guia_1.exe
+C:\Users\SALA 302\source\repos\P3_G3\Guia_1\obj\Debug\Guia_1.pdb
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\obj\Debug\Guia_1.csproj.AssemblyReference.cache
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\obj\Debug\Guia_1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\obj\Debug\Guia_1.exe
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\obj\Debug\Guia_1.pdb
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\bin\Debug\Guia_1.exe.config
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\bin\Debug\Guia_1.exe
+C:\Users\HOME\Documents\C# PROYECTOS\P3_G3\P3_G3\Guia_1\bin\Debug\Guia_1.pdb
